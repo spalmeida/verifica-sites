@@ -1,5 +1,6 @@
   <header>
     <h1>Verificador de Sites WordPress</h1>
+    <image src="https://github.com/user-attachments/assets/ea4e27b6-c29c-4f8c-9ffb-114e2718dabe" />
     <p>
       Este projeto é um script de automação em Python que realiza diversas verificações em sites WordPress e exibe os resultados de forma elegante no terminal utilizando a biblioteca <strong>Rich</strong>. O script cria (se necessário) um ambiente virtual, instala as dependências e executa várias análises, como verificação de disponibilidade, tempo de resposta, redirecionamentos, certificado SSL, DNS, teste de ping, extração de título, análise de erros, verificação de arquivos essenciais (<code>robots.txt</code>, <code>sitemap.xml</code>, <code>meta refresh</code>) e verificações específicas para WordPress. Além disso, o script captura um screenshot da página inicial usando <strong>Selenium</strong> e o <strong>WebDriver Manager</strong>.
     </p>
